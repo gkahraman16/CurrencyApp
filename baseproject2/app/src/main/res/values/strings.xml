@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Döviz</string>
+    <string name="close">Kapat</string>
+    <string name="service_is_continue_warn">İşlemler devam ediyor, lütfen birkaç saniye sonra tekrar deneyin.</string>
+    <string name="next_page">next page</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Anasayfa</string>
+    <string name="title_dashboard">Özet</string>
+    <string name="title_notifications">Bildirimler</string>
+    <string name="button">Button</string>
+    <string name="title_activity_nav">MainActivity</string>
+    <string name="title_exchange">Dönüştürücü</string>
+</resources>

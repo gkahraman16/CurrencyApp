@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="parameters_min_h">54dp</dimen>
+
+    <dimen name="divider_default_value">1dp</dimen>
+    <dimen name="item_width_default_value">100dp</dimen>
+    <dimen name="toolbar_h">60dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
